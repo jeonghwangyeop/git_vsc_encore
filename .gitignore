@@ -1,0 +1,10 @@
+secrets.yaml
+
+# 주석.
+# 파일명
+# secrets.yaml
+# *.yaml
+# logs (logs 이름을 가지는 파일 또는 폴더와 그 내용들)
+# logs/debug.log (logs 디렉터리 밑에 있는 debug.log를 맡기지 않겠다.)
+# logs/*.log (logs 디렉터리 밑에 있는.log파일을 전부 제외시키겠다. 디렉터리는 제외 X)
+# logs/**/debug.log(logs 디렉터리 밑에 있는 폴더와 파일을 포함해서 debug.log를 제외시키겠다.)
